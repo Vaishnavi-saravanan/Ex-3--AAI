@@ -1,5 +1,6 @@
 <H3>ENTER YOUR NAME : VAISHNAVI S</H3>
 <H3>ENTER YOUR REGISTER NO : 212222230165</H3>
+<H3>DATE:</H3>
 <H3>EX. NO.3</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
@@ -117,7 +118,8 @@ print(query_result)
 
 
 ## Output:
-![1](https://github.com/user-attachments/assets/7dc5ca5c-7a46-4fb8-95b3-726db8aabb26)
+![Screenshot 2024-11-05 224434](https://github.com/user-attachments/assets/d52d0704-abc8-4cad-bff9-1bd2595a963b)
+
 ![12](https://github.com/user-attachments/assets/d30c9d0f-47f6-49cd-9007-c91970f66c68)
 
 
